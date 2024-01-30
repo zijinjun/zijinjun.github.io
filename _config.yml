@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zeven's ecosystem
+title: 子衿君's blog
 subtitle: ''
-description: 傻
+description:
 keywords:
-author: Zeven
+author: zijinjun
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://wuzw21.github.io
+url: https://zijinjun.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
